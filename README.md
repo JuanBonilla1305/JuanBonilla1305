@@ -1,131 +1,159 @@
-# <!-- Este es un comentario: Encabezado con efecto de máquina de escribir animado -->
-# <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Juan+Bonilla;Ingeniero+de+Sistemas+(en+proceso);Game+Developer;Backend+Entusiasta" alt="Typing SVG" /></a></p>
+<!-- HEADER ANIMADO -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff96,100:00d4ff&height=200&section=header&text=Juan%20Bonilla&fontSize=60&fontColor=0d0d0d&fontAlignY=38&desc=Ingeniero%20de%20Sistemas%20%7C%20Game%20Dev%20%7C%20Backend&descAlignY=58&descColor=0d0d0d&animation=twinkling" />
+
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF96&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Juan+Bonilla+%F0%9F%91%8B;Ingeniero+de+Sistemas+(en+proceso);Game+Developer+%F0%9F%8E%AE;Backend+Enthusiast+%E2%9A%99%EF%B8%8F;Construyendo+el+futuro%2C+l%C3%ADnea+a+l%C3%ADnea..." alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- BADGES DE VISITAS Y ESTADO -->
+<img src="https://komarev.com/ghpvc/?username=JuanBonilla1305&style=for-the-badge&color=00ff96&labelColor=0d0d0d&label=VISITAS" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-Disponible%20para%20colaborar-00ff96?style=for-the-badge&labelColor=0d0d0d" />
+&nbsp;
+<img src="https://img.shields.io/badge/UBICACI%C3%93N-Ibagu%C3%A9%2C%20Colombia-00d4ff?style=for-the-badge&labelColor=0d0d0d" />
+
+</div>
 
 ---
 
-# <!-- Sección de introducción con un banner sutil y texto formateado -->
-## <img src="https://img.icons8.com/fluency/48/user-male-circle.png" alt="user-icon"/> Sobre Mí
+## ⚡ `whoami`
 
-<p align="justify">
-Soy un estudiante de Ingeniería de Sistemas de la <b>Universidad de Ibagué</b>, apasionado por resolver problemas complejos a través del código. Mi enfoque combina la creatividad del <b>desarrollo de videojuegos</b> con la rigurosidad técnica de la <b>arquitectura de software</b> y los sistemas distribuidos. Constantemente explorando nuevas tecnologías para construir soluciones eficientes, escalables y mantenibles.
-</p>
+```javascript
+const juan = {
+  nombre:     "Juan Bonilla",
+  rol:        ["Estudiante de Ing. Sistemas", "Game Developer", "Backend Dev"],
+  universidad: "Universidad de Ibagué 🎓",
+  pasiones:   ["Videojuegos", "Arquitectura de Software", "Sistemas Distribuidos"],
+  actualmente: "Construyendo cosas cool con código 🚀",
+  meta:        "Crear software que deje huella",
+};
+```
 
----
-
-## <img src="https://img.icons8.com/fluency/48/source-code.png" alt="code-icon"/> Tecnologías y Herramientas
-
-<!-- Esta sección usa iconos vectoriales (Simple Icons) que cambian de color al pasar el ratón -->
-<p align="center">
-  <!-- Lenguajes Principales -->
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
-  </a>
-  
-  <br> <!-- Salto de línea para organizar -->
-  
-  <!-- Game Dev & Diseño -->
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  </a>
-  <a href="https://www.aseprite.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite"/>
-  </a>
-  
-  <br> <!-- Salto de línea para organizar -->
-  
-  <!-- Backend & Cloud -->
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  </a>
-</p>
+> *Combino la creatividad del **desarrollo de videojuegos** con la rigurosidad técnica de la **arquitectura de software** y los sistemas distribuidos.*
 
 ---
 
-# <!-- Sección de Proyectos - Esta es la parte clave para tus repos -->
-## <img src="https://img.icons8.com/fluency/48/rocket.png" alt="rocket-icon"/> Proyectos Destacados
+## 🛠️ Tecnologías y Herramientas
 
-<details open>
-<summary><b>🎮 Desarrollo de Videojuegos</b></summary>
-<br>
-<p align="center">
-  <img src="https://github.com/JuanBonilla1305/web-operación-pijao/raw/main/Documentation/pijao_gameplay.gif" width="400" alt="Operación Pijao Gameplay GIF" /> 
-  <!-- NOTA: Asegúrate de tener un GIF de gameplay en tu repositorio de Operación Pijao y actualiza esta URL si es necesario. Si no tienes uno, puedes quitar la etiqueta <img> -->
-</p>
+<div align="center">
 
-*   **Operación Pijao:** *[ Unity | C# ]* Un juego de plataformas 2D side-scrolling (estilo run and gun) ambientado en Ibagué. Incluye mecánicas de combate, sistemas de jefes y animaciones personalizadas de sprites.
-    *   [Ver Repositorio del GDD](https://github.com/JuanBonilla1305/gdd-operacion-pijao)
-    *   [Ver Repositorio de la Versión Web](https://github.com/JuanBonilla1305/web-operacion-pijao)
-</details>
+<!-- Lenguajes -->
+**[ LENGUAJES ]**
 
-<br>
+<img src="https://skillicons.dev/icons?i=cs,js,ts&theme=dark" />
 
-<details open>
-<summary><b>🏢 Arquitectura de Software y Backend</b></summary>
-*   **Banco Estudiantil / Wallnut:** *[ Node.js | WebSockets | MongoDB ]* Desarrollo de una plataforma de simulación bancaria centrada en la gestión segura de transacciones y cuentas, utilizando comunicación en tiempo real.
-*   **Animales-Arquitectura:** *[ Node.js | Hexagonal Architecture ]* Implementación práctica de principios de Arquitectura Hexagonal para garantizar la separación de dominio, aplicación e infraestructura.
-*   **Raffle System / Sorteos:** *[ JavaScript | SQL ]* Sistemas para la gestión automatizada de sorteos con lógica de asignación aleatoria.
-</details>
+<!-- Game Dev -->
 
-<br>
+**[ GAME DEV & DISEÑO ]**
 
-<details>
-<summary><b>🛠️ Otros Proyectos Técnicos</b></summary>
-*   **Lilianno Joyeria & Frontend-Inventario:** *[ Vue | JavaScript ]* Desarrollo de soluciones web para la gestión de inventario y control de recursos.
-*   **Modelos de Persistencia:** *[ SQL | DB Management ]* Exploración e implementación de diversas estrategias para el almacenamiento eficiente de datos.
-</details>
+<img src="https://skillicons.dev/icons?i=unity&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
+
+<!-- Backend & Cloud -->
+
+**[ BACKEND & CLOUD ]**
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,aws&theme=dark" />
+
+<!-- Herramientas -->
+
+**[ HERRAMIENTAS ]**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vue&theme=dark" />
+
+</div>
 
 ---
 
-## <img src="https://img.icons8.com/fluency/48/chart-line.png" alt="stats-icon"/> Estadísticas de GitHub
+## 🚀 Proyectos Destacados
 
-<!-- Tarjetas de estadísticas animadas y dinámicas -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JuanBonilla1305&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Estadísticas de Juan Bonilla" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanBonilla1305&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados por Juan Bonilla" />
-  </a>
-</p>
+<div align="center">
 
-<!-- Una gráfica de actividad alternativa para más dinamismo -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanBonilla1305&theme=radical&hide_border=true" alt="Racha de contribuciones de Juan Bonilla" />
-</p>
+| 🎮 Proyecto | 📋 Descripción | 🔧 Stack | 🔗 Links |
+|:-----------:|:--------------|:--------:|:--------:|
+| **Operación Pijao** | Juego de plataformas 2D side-scrolling ambientado en Ibagué. Combate, jefes, sprites personalizados | `Unity` `C#` `Aseprite` | [GDD](https://github.com/JuanBonilla1305/gdd-operacion-pijao) · [Web](https://github.com/JuanBonilla1305/web-operacion-pijao) |
+| **Banco Estudiantil** | Plataforma bancaria con gestión de transacciones y comunicación en tiempo real | `Node.js` `WebSockets` `MongoDB` | — |
+| **Animales-Arquitectura** | Implementación práctica de Arquitectura Hexagonal | `Node.js` `Hexagonal Arch` | — |
+| **Raffle System** | Gestión automatizada de sorteos con lógica de asignación aleatoria | `JavaScript` `SQL` | — |
+| **Lilianno Joyería** | Solución web para gestión de inventario y control de recursos | `Vue` `JavaScript` | — |
+
+</div>
 
 ---
 
-## <img src="https://img.icons8.com/fluency/48/mailbox-closed-flag-up.png" alt="contact-icon"/> Contacto y Enlaces
+## 📊 GitHub Stats
 
-<!-- Badges de contacto interactivos -->
-<p align="center">
-  <a href="mailto:juan.bonilla3@estudiantesunibague.edu.co">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/JuanBonilla1305">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-  </a>
-  <a href="https://www.unibague.edu.co/" target="_blank">
-    <img src="https://img.shields.io/badge/Universidad-Ibagu%C3%A9-blue?style=for-the-badge" alt="Unibagué"/>
-  </a>
-</p>
+<div align="center">
 
-<!-- Comentario final para centrar el pie de página -->
-<p align="center">
-  <i>"El código es poesía, y yo soy un poeta en proceso."</i>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JuanBonilla1305&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff96&icon_color=00d4ff&text_color=aaaaaa&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanBonilla1305&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff96&text_color=aaaaaa" />
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanBonilla1305&theme=dark&hide_border=true&background=0d0d0d&ring=00ff96&fire=00d4ff&currStreakLabel=00ff96&sideLabels=aaaaaa&dates=555555" />
+
+</div>
+
+---
+
+## 🏆 Trofeos GitHub
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JuanBonilla1305&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
+
+</div>
+
+---
+
+## 📈 Actividad de Contribuciones
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanBonilla1305&bg_color=0d0d0d&color=00ff96&line=00d4ff&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Objetivos 2025
+
+```
+[ ██████████░░░░░░░░░░ ] 50%  Dominar Arquitecturas de Software
+[ ████████░░░░░░░░░░░░ ] 40%  Publicar primer juego en Steam/Itch.io
+[ ██████░░░░░░░░░░░░░░ ] 30%  Certificación AWS
+[ ████░░░░░░░░░░░░░░░░ ] 20%  Contribuir a proyectos Open Source
+```
+
+---
+
+## 📬 Contacto y Redes
+
+<div align="center">
+
+<a href="mailto:juan.bonilla3@estudiantesunibague.edu.co">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/JuanBonilla1305">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.unibague.edu.co/" target="_blank">
+  <img src="https://img.shields.io/badge/Unibagu%C3%A9-0d6efd?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:00ff96,100:0d0d0d&height=120&section=footer&fontSize=20&fontColor=0d0d0d&animation=twinkling" />
+
+*"El código es poesía, y yo soy un poeta en proceso."*
+
+</div>
