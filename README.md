@@ -124,12 +124,16 @@ const juan = {
 
 ## 🎯 Objetivos 2025
 
-```
-[ ██████████░░░░░░░░░░ ] 50%  Dominar Arquitecturas de Software
-[ ████████░░░░░░░░░░░░ ] 40%  Publicar primer juego en Steam/Itch.io
-[ ██████░░░░░░░░░░░░░░ ] 30%  Certificación AWS
-[ ████░░░░░░░░░░░░░░░░ ] 20%  Contribuir a proyectos Open Source
-```
+<div align="center">
+
+| Meta | Progreso | % |
+|:-----|:--------:|:-:|
+| 🏗️ Dominar Arquitecturas de Software | ![50%](https://progress-bar.xyz/50/?scale=100&title=&width=200&color=00ff96&suffix=) | `50%` |
+| 🎮 Publicar primer juego en Steam/Itch.io | ![40%](https://progress-bar.xyz/40/?scale=100&title=&width=200&color=00d4ff&suffix=) | `40%` |
+| ☁️ Certificación AWS | ![30%](https://progress-bar.xyz/30/?scale=100&title=&width=200&color=7b61ff&suffix=) | `30%` |
+| 🌍 Contribuir a Open Source | ![20%](https://progress-bar.xyz/20/?scale=100&title=&width=200&color=ff9900&suffix=) | `20%` |
+
+</div>
 
 ---
 
