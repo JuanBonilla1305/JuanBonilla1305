@@ -78,10 +78,10 @@ const juan = {
 | 🎮 Proyecto | 📋 Descripción | 🔧 Stack | 🔗 Links |
 |:-----------:|:--------------|:--------:|:--------:|
 | **Operación Pijao** | Juego de plataformas 2D side-scrolling ambientado en Ibagué. Combate, jefes, sprites personalizados | `Unity` `C#` `Aseprite` | [GDD](https://github.com/JuanBonilla1305/gdd-operacion-pijao) · [Web](https://github.com/JuanBonilla1305/web-operacion-pijao) |
-| **Banco Estudiantil** | Plataforma bancaria con gestión de transacciones y comunicación en tiempo real | `Node.js` `WebSockets` `MongoDB` | — |
+| **Wallnut / Ardys** | Banco virtual estudiantil con gestión de cuentas, transacciones seguras y comunicación en tiempo real | `Node.js` `WebSockets` `MongoDB` | — |
 | **Animales-Arquitectura** | Implementación práctica de Arquitectura Hexagonal | `Node.js` `Hexagonal Arch` | — |
 | **Raffle System** | Gestión automatizada de sorteos con lógica de asignación aleatoria | `JavaScript` `SQL` | — |
-| **Lilianno Joyería** | Solución web para gestión de inventario y control de recursos | `Vue` `JavaScript` | — |
+| **Lilianno Joyería** | Página web + sistema de gestión de inventario y control de recursos para joyería local | `Vue` `JavaScript` | — |
 
 </div>
 
