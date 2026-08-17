@@ -1,0 +1,4 @@
+# El workflow corre en Linux y reescribe el README y los SVG con LF. Si desde
+# Windows se commitearan con CRLF, cada ejecución generaría un diff de ruido
+# sobre el archivo entero. Con esto el repo guarda LF siempre.
+* text=auto eol=lf

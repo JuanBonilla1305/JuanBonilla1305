@@ -1,0 +1,100 @@
+{
+  "usuario": "JuanBonilla1305",
+  "grupos": [
+    {
+      "id": "gamedev",
+      "titulo": "🎮 Game Dev",
+      "proyectos": [
+        {
+          "nombre": "Operación Pijao",
+          "repo": "JuanBonilla1305/web-operacion-pijao",
+          "breve": "Plataformas 2D side-scrolling ambientado en Ibagué: combate, jefes y sprites propios.",
+          "stack": ["Unity", "C#", "Aseprite"],
+          "enlaces": [{ "texto": "GDD", "repo": "JuanBonilla1305/gdd-operacion-pijao" }]
+        }
+      ]
+    },
+    {
+      "id": "productos",
+      "titulo": "🏗️ Productos y clientes",
+      "proyectos": [
+        {
+          "nombre": "Surtimotos",
+          "repo": "JuanBonilla1305/SurtImotos",
+          "breve": "Catálogo e inventario para una compraventa de motos: panel de trámites y vista 360 armada con fotogramas de video real.",
+          "stack": ["Next.js 16", "TypeScript", "Prisma 7", "PostgreSQL", "Supabase"]
+        },
+        {
+          "nombre": "Lilianno Joyería",
+          "repo": "JuanBonilla1305/Lilianno_Joyeria",
+          "breve": "E-commerce de joyería con catálogo, carrito persistente, checkout y panel admin con reportes en Excel.",
+          "stack": ["React 19", "Express", "MongoDB", "JWT"]
+        },
+        {
+          "nombre": "Wallnut / Ardys",
+          "repo": null,
+          "estado": "sin repo público",
+          "breve": "Banco virtual estudiantil: cuentas, transacciones seguras y comunicación en tiempo real.",
+          "stack": ["Node.js", "WebSockets", "MongoDB"]
+        },
+        {
+          "nombre": "msn-matrix",
+          "repo": null,
+          "estado": "en el portátil",
+          "breve": "Matriz MUST / SHOULD / NICE: clasifica una lista de funcionalidades con confianza y justificación.",
+          "stack": ["Next.js 16", "SDK de Anthropic"]
+        }
+      ]
+    },
+    {
+      "id": "colaboraciones",
+      "titulo": "🤝 Colaboraciones",
+      "proyectos": [
+        {
+          "nombre": "DevUP",
+          "repo": "BBMC-S-S-A/DevUP",
+          "breve": "Centro de mando de un equipo: multi-tenencia con aislamiento por fila, canales, llamadas con vídeo y pantalla, tablero de tareas en tiempo real.",
+          "stack": ["Fastify", "PostgreSQL 17", "WebRTC", "S3", "Docker"]
+        },
+        {
+          "nombre": "domicilios-app",
+          "repo": "felipebaez07/domicilios-app",
+          "breve": "Domicilios en microservicios (auth, pedidos, tracking, notificaciones); metí mano en el despliegue remoto y la migración a MySQL.",
+          "stack": ["Node.js", "Microservicios", "MySQL"]
+        }
+      ]
+    },
+    {
+      "id": "universidad",
+      "titulo": "🎓 Universidad",
+      "proyectos": [
+        {
+          "nombre": "Animales-Arquitectura",
+          "repo": "JuanBonilla1305/Animales-Arquitectura",
+          "breve": "Arquitectura hexagonal llevada a la práctica sobre un dominio simple.",
+          "stack": ["Node.js", "Hexagonal"]
+        },
+        {
+          "nombre": "Raffle System",
+          "repo": "JuanBonilla1305/raffle-system",
+          "breve": "Gestión automatizada de sorteos con lógica de asignación aleatoria.",
+          "stack": ["JavaScript", "SQL"]
+        },
+        {
+          "nombre": "Lógica de automatización",
+          "repo": null,
+          "estado": "9 proyectos locales",
+          "breve": "DLLs que resuelven la lógica de un robot con cuatro sensores, bandas, un lavadero y el llenado de botellas, para engancharlas a un simulador.",
+          "stack": ["C++", "Visual Studio"]
+        },
+        {
+          "nombre": "Fundamentos móviles",
+          "repo": null,
+          "estado": "2 proyectos locales",
+          "breve": "Base de Kotlin para móvil: control de flujo, funciones reutilizables y modelado con objetos.",
+          "stack": ["Kotlin", "IntelliJ"]
+        }
+      ]
+    }
+  ]
+}

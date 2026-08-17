@@ -1,0 +1,49 @@
+name: Actualizar perfil
+
+on:
+  schedule:
+    # 06:17 UTC = 01:17 en Colombia. Un minuto raro a propósito: las horas en
+    # punto son las más congestionadas en los runners compartidos.
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - proyectos.json
+      - scripts/**
+      - .github/workflows/actualizar-perfil.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-perfil
+  cancel-in-progress: true
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: "22"
+
+      - name: Regenerar README y gráfico
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USUARIO: ${{ github.repository_owner }}
+        run: node scripts/actualizar-perfil.mjs
+
+      - name: Publicar si algo cambió
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Nada que actualizar."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets
+          git commit -m "Refrescar el perfil con los datos de hoy"
+          git push

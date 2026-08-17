@@ -17,6 +17,13 @@
 &nbsp;
 <img src="https://img.shields.io/badge/UBICACI%C3%93N-Ibagu%C3%A9%2C%20Colombia-00d4ff?style=for-the-badge&labelColor=0d0d0d" />
 
+<br/><br/>
+
+<!-- CONTADORES VIVOS: los reescribe el workflow, no los toques a mano -->
+<!-- resumen:inicio -->
+<img src="https://img.shields.io/badge/pendiente-primera%20ejecuci%C3%B3n-00ff96?style=for-the-badge&labelColor=0d0d0d" />
+<!-- resumen:fin -->
+
 </div>
 
 ---
@@ -29,7 +36,7 @@ const juan = {
   rol:        ["Estudiante de Ing. Sistemas", "Game Developer", "Backend Dev"],
   universidad: "Universidad de Ibagué 🎓",
   pasiones:   ["Videojuegos", "Arquitectura de Software", "Sistemas Distribuidos"],
-  actualmente: "Construyendo cosas cool con código 🚀",
+  actualmente: "Construyendo Surtimotos y DevUP 🚀",
   meta:        "Crear software que deje huella",
 };
 ```
@@ -45,7 +52,7 @@ const juan = {
 <!-- Lenguajes -->
 **[ LENGUAJES ]**
 
-<img src="https://skillicons.dev/icons?i=cs,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,ts,js,kotlin,cpp&theme=dark" />
 
 <!-- Game Dev -->
 
@@ -55,33 +62,37 @@ const juan = {
 &nbsp;
 <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
 
-<!-- Backend & Cloud -->
+<!-- Web & Backend -->
 
-**[ BACKEND & CLOUD ]**
+**[ WEB & BACKEND ]**
 
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind&theme=dark" />
+
+<!-- Datos & Cloud -->
+
+**[ DATOS & CLOUD ]**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,docker,aws&theme=dark" />
 
 <!-- Herramientas -->
 
 **[ HERRAMIENTAS ]**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vue&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
 
 </div>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos
 
 <div align="center">
 
-| 🎮 Proyecto | 📋 Descripción | 🔧 Stack | 🔗 Links |
-|:-----------:|:--------------|:--------:|:--------:|
-| **Operación Pijao** | Juego de plataformas 2D side-scrolling ambientado en Ibagué. Combate, jefes, sprites personalizados | `Unity` `C#` `Aseprite` | [GDD](https://github.com/JuanBonilla1305/gdd-operacion-pijao) · [Web](https://github.com/JuanBonilla1305/web-operacion-pijao) |
-| **Wallnut / Ardys** | Banco virtual estudiantil con gestión de cuentas, transacciones seguras y comunicación en tiempo real | `Node.js` `WebSockets` `MongoDB` | — |
-| **Animales-Arquitectura** | Implementación práctica de Arquitectura Hexagonal | `Node.js` `Hexagonal Arch` | — |
-| **Raffle System** | Gestión automatizada de sorteos con lógica de asignación aleatoria | `JavaScript` `SQL` | — |
-| **Lilianno Joyería** | Página web + sistema de gestión de inventario y control de recursos para joyería local | `Vue` `JavaScript` | — |
+<!-- Las fichas las genera el workflow desde proyectos.json. Para añadir un -->
+<!-- proyecto, edita ESE archivo: lo que escribas aquí dentro se sobreescribe. -->
+<!-- proyectos:inicio -->
+_Pendiente de la primera ejecución del workflow._
+<!-- proyectos:fin -->
 
 </div>
 
@@ -118,11 +129,24 @@ const juan = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanBonilla1305&bg_color=0d0d0d&color=00ff96&line=00d4ff&point=ffffff&area=true&hide_border=true" />
 
+<br/><br/>
+
+<!-- Este SVG lo dibuja scripts/grafico.mjs en cada ejecución del workflow. -->
+<img width="90%" src="assets/actividad.svg" alt="Commits por proyecto en los últimos 90 días" />
+
+<br/><br/>
+
+**Últimos commits públicos**
+
+<!-- actividad:inicio -->
+_Pendiente de la primera ejecución del workflow._
+<!-- actividad:fin -->
+
 </div>
 
 ---
 
-## 🎯 Objetivos 2025
+## 🎯 Objetivos 2026
 
 <div align="center">
 
@@ -134,6 +158,27 @@ const juan = {
 | 🌍 Contribuir a Open Source | ![20%](https://progress-bar.xyz/20/?scale=100&title=&width=200&color=ff9900&suffix=) | `20%` |
 
 </div>
+
+---
+
+## 🤖 Esta página se actualiza sola
+
+<div align="center">
+
+Los proyectos, el gráfico y los últimos commits **no se editan a mano**.
+
+</div>
+
+La prosa de cada proyecto vive en [`proyectos.json`](proyectos.json). Todo lo que
+cambia solo —lenguaje, estrellas, commits de los últimos 90 días, último push, el
+gráfico y la lista de commits recientes— lo escribe
+[`scripts/actualizar-perfil.mjs`](scripts/actualizar-perfil.mjs) dentro de los
+bloques marcados de este README.
+
+El [workflow](.github/workflows/actualizar-perfil.yml) corre cada día a las 06:17
+UTC, a mano desde **Actions**, y en cada push que toque el script o el JSON. Si
+no hay nada que cambiar, no hace commit. Para añadir un proyecto basta con
+meterlo en `proyectos.json`.
 
 ---
 
