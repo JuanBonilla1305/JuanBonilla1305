@@ -21,7 +21,9 @@
 
 <!-- CONTADORES VIVOS: los reescribe el workflow, no los toques a mano -->
 <!-- resumen:inicio -->
-<img src="https://img.shields.io/badge/pendiente-primera%20ejecuci%C3%B3n-00ff96?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/50%20commits-%C3%BAltimos%2090%20d%C3%ADas-00ff96?style=for-the-badge&labelColor=0d0d0d" />
+&nbsp;
+<img src="https://img.shields.io/badge/11%20proyectos-7%20en%20GitHub-00d4ff?style=for-the-badge&labelColor=0d0d0d" />
 <!-- resumen:fin -->
 
 </div>
@@ -91,7 +93,36 @@ const juan = {
 <!-- Las fichas las genera el workflow desde proyectos.json. Para añadir un -->
 <!-- proyecto, edita ESE archivo: lo que escribas aquí dentro se sobreescribe. -->
 <!-- proyectos:inicio -->
-_Pendiente de la primera ejecución del workflow._
+### 🎮 Game Dev
+
+| Proyecto | Descripción | Stack | 90 días |
+|:--|:--|:--:|:--:|
+| **[Operación Pijao](https://github.com/JuanBonilla1305/web-operacion-pijao)**<br><sub>[GDD](https://github.com/JuanBonilla1305/gdd-operacion-pijao)</sub> | Plataformas 2D side-scrolling ambientado en Ibagué: combate, jefes y sprites propios. | `Unity` `C#` `Aseprite` | 0<br><sub>hace 4 meses</sub> |
+
+### 🏗️ Productos y clientes
+
+| Proyecto | Descripción | Stack | 90 días |
+|:--|:--|:--:|:--:|
+| **[Surtimotos](https://github.com/JuanBonilla1305/SurtImotos)** | Catálogo e inventario para una compraventa de motos: panel de trámites y vista 360 armada con fotogramas de video real. | `Next.js 16` `TypeScript` `Prisma 7` `PostgreSQL` `Supabase` | 26<br><sub>anteayer</sub> |
+| **[Lilianno Joyería](https://github.com/JuanBonilla1305/Lilianno_Joyeria)** | E-commerce de joyería con catálogo, carrito persistente, checkout y panel admin con reportes en Excel. | `React 19` `Express` `MongoDB` `JWT` | 0<br><sub>hace 6 días</sub> |
+| **Wallnut / Ardys**<br><sub>sin repo público</sub> | Banco virtual estudiantil: cuentas, transacciones seguras y comunicación en tiempo real. | `Node.js` `WebSockets` `MongoDB` | — |
+| **msn-matrix**<br><sub>en el portátil</sub> | Matriz MUST / SHOULD / NICE: clasifica una lista de funcionalidades con confianza y justificación. | `Next.js 16` `SDK de Anthropic` | — |
+
+### 🤝 Colaboraciones
+
+| Proyecto | Descripción | Stack | 90 días |
+|:--|:--|:--:|:--:|
+| **[DevUP](https://github.com/BBMC-S-S-A/DevUP)** | Centro de mando de un equipo: multi-tenencia con aislamiento por fila, canales, llamadas con vídeo y pantalla, tablero de tareas en tiempo real. | `Fastify` `PostgreSQL 17` `WebRTC` `S3` `Docker` | 19<br><sub>hoy</sub> |
+| **[domicilios-app](https://github.com/felipebaez07/domicilios-app)** | Domicilios en microservicios (auth, pedidos, tracking, notificaciones); metí mano en el despliegue remoto y la migración a MySQL. | `Node.js` `Microservicios` `MySQL` | 5<br><sub>hace 3 días · ★ 2</sub> |
+
+### 🎓 Universidad
+
+| Proyecto | Descripción | Stack | 90 días |
+|:--|:--|:--:|:--:|
+| **[Animales-Arquitectura](https://github.com/JuanBonilla1305/Animales-Arquitectura)** | Arquitectura hexagonal llevada a la práctica sobre un dominio simple. | `Node.js` `Hexagonal` | 0<br><sub>hace 4 meses</sub> |
+| **[Raffle System](https://github.com/JuanBonilla1305/raffle-system)** | Gestión automatizada de sorteos con lógica de asignación aleatoria. | `JavaScript` `SQL` | 0<br><sub>hace 6 meses</sub> |
+| **Lógica de automatización**<br><sub>9 proyectos locales</sub> | DLLs que resuelven la lógica de un robot con cuatro sensores, bandas, un lavadero y el llenado de botellas, para engancharlas a un simulador. | `C++` `Visual Studio` | — |
+| **Fundamentos móviles**<br><sub>2 proyectos locales</sub> | Base de Kotlin para móvil: control de flujo, funciones reutilizables y modelado con objetos. | `Kotlin` `IntelliJ` | — |
 <!-- proyectos:fin -->
 
 </div>
@@ -139,7 +170,7 @@ _Pendiente de la primera ejecución del workflow._
 **Últimos commits públicos**
 
 <!-- actividad:inicio -->
-_Pendiente de la primera ejecución del workflow._
+_Sin actividad pública reciente._
 <!-- actividad:fin -->
 
 </div>

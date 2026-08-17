@@ -1,13 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="780" height="214" viewBox="0 0 780 214" role="img" aria-labelledby="titulo desc" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="184" viewBox="0 0 780 184" role="img" aria-labelledby="titulo desc" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
 <title id="titulo">Commits por proyecto</title>
-<desc id="desc">DevUP: 57; Surtimotos: 27; domicilios-app: 8; Lilianno Joyería: 1</desc>
-<rect width="780" height="214" fill="#0d0d0d"/>
+<desc id="desc">Surtimotos: 26; DevUP: 19; domicilios-app: 5</desc>
+<rect width="780" height="184" fill="#0d0d0d"/>
 <text x="18" y="26" font-size="15" font-weight="700" fill="#00ff96">Commits por proyecto</text>
 <text x="18" y="46" font-size="12" fill="#aaaaaa">Últimos 90 días · solo repos públicos visibles para la API</text>
-<line x1="228" y1="66" x2="228" y2="182" stroke="#333333" stroke-width="1"/>
-<text x="216" y="79" text-anchor="end" dominant-baseline="central" font-size="12.5" fill="#aaaaaa">DevUP</text><path d="M228 69 H704 A4 4 0 0 1 708 73 V85 A4 4 0 0 1 704 89 H228 Z" fill="#00a566"/><text x="717" y="79" dominant-baseline="central" font-size="12.5" font-variant-numeric="tabular-nums" fill="#aaaaaa">57</text>
-<text x="216" y="109" text-anchor="end" dominant-baseline="central" font-size="12.5" fill="#aaaaaa">Surtimotos</text><path d="M228 99 H451 A4 4 0 0 1 455 103 V115 A4 4 0 0 1 451 119 H228 Z" fill="#00a566"/><text x="464" y="109" dominant-baseline="central" font-size="12.5" font-variant-numeric="tabular-nums" fill="#aaaaaa">27</text>
-<text x="216" y="139" text-anchor="end" dominant-baseline="central" font-size="12.5" fill="#aaaaaa">domicilios-app</text><path d="M228 129 H291 A4 4 0 0 1 295 133 V145 A4 4 0 0 1 291 149 H228 Z" fill="#00a566"/><text x="304" y="139" dominant-baseline="central" font-size="12.5" font-variant-numeric="tabular-nums" fill="#aaaaaa">8</text>
-<text x="216" y="169" text-anchor="end" dominant-baseline="central" font-size="12.5" fill="#aaaaaa">Lilianno Joyería</text><path d="M228 159 H232 A4 4 0 0 1 236 163 V175 A4 4 0 0 1 232 179 H228 Z" fill="#00a566"/><text x="245" y="169" dominant-baseline="central" font-size="12.5" font-variant-numeric="tabular-nums" fill="#aaaaaa">1</text>
-<text x="18" y="202" font-size="11" fill="#aaaaaa">Generado automáticamente el 17 de agosto de 2026</text>
+<line x1="228" y1="66" x2="228" y2="152" stroke="#333333" stroke-width="1"/>
+<text x="216" y="79" text-anchor="end" dominant-baseline="central" font-size="12.5" fill="#aaaaaa">Surtimotos</text><path d="M228 69 H704 A4 4 0 0 1 708 73 V85 A4 4 0 0 1 704 89 H228 Z" fill="#00a566"/><text x="717" y="79" dominant-baseline="central" font-size="12.5" font-variant-numeric="tabular-nums" fill="#aaaaaa">26</text>
+<text x="216" y="109" text-anchor="end" dominant-baseline="central" font-size="12.5" fill="#aaaaaa">DevUP</text><path d="M228 99 H575 A4 4 0 0 1 579 103 V115 A4 4 0 0 1 575 119 H228 Z" fill="#00a566"/><text x="588" y="109" dominant-baseline="central" font-size="12.5" font-variant-numeric="tabular-nums" fill="#aaaaaa">19</text>
+<text x="216" y="139" text-anchor="end" dominant-baseline="central" font-size="12.5" fill="#aaaaaa">domicilios-app</text><path d="M228 129 H316 A4 4 0 0 1 320 133 V145 A4 4 0 0 1 316 149 H228 Z" fill="#00a566"/><text x="329" y="139" dominant-baseline="central" font-size="12.5" font-variant-numeric="tabular-nums" fill="#aaaaaa">5</text>
+<text x="18" y="172" font-size="11" fill="#aaaaaa">Generado automáticamente el 17 de agosto de 2026</text>
 </svg>
