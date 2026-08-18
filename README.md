@@ -21,7 +21,7 @@
 
 <!-- CONTADORES VIVOS: los reescribe el workflow, no los toques a mano -->
 <!-- resumen:inicio -->
-<img src="https://img.shields.io/badge/50%20commits-%C3%BAltimos%2090%20d%C3%ADas-00ff96?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/62%20commits-%C3%BAltimos%2090%20d%C3%ADas-00ff96?style=for-the-badge&labelColor=0d0d0d" />
 &nbsp;
 <img src="https://img.shields.io/badge/11%20proyectos-7%20en%20GitHub-00d4ff?style=for-the-badge&labelColor=0d0d0d" />
 <!-- resumen:fin -->
@@ -112,7 +112,7 @@ const juan = {
 
 | Proyecto | Descripción | Stack | 90 días |
 |:--|:--|:--:|:--:|
-| **[DevUP](https://github.com/BBMC-S-S-A/DevUP)** | Centro de mando de un equipo: multi-tenencia con aislamiento por fila, canales, llamadas con vídeo y pantalla, tablero de tareas en tiempo real. | `Fastify` `PostgreSQL 17` `WebRTC` `S3` `Docker` | 19<br><sub>hoy</sub> |
+| **[DevUP](https://github.com/BBMC-S-S-A/DevUP)** | Centro de mando de un equipo: multi-tenencia con aislamiento por fila, canales, llamadas con vídeo y pantalla, tablero de tareas en tiempo real. | `Fastify` `PostgreSQL 17` `WebRTC` `S3` `Docker` | 31<br><sub>hoy</sub> |
 | **[domicilios-app](https://github.com/felipebaez07/domicilios-app)** | Domicilios en microservicios (auth, pedidos, tracking, notificaciones); metí mano en el despliegue remoto y la migración a MySQL. | `Node.js` `Microservicios` `MySQL` | 5<br><sub>hace 3 días · ★ 2</sub> |
 
 ### 🎓 Universidad
