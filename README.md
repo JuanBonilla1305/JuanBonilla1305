@@ -21,7 +21,7 @@
 
 <!-- CONTADORES VIVOS: los reescribe el workflow, no los toques a mano -->
 <!-- resumen:inicio -->
-<img src="https://img.shields.io/badge/62%20commits-%C3%BAltimos%2090%20d%C3%ADas-00ff96?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/61%20commits-%C3%BAltimos%2090%20d%C3%ADas-00ff96?style=for-the-badge&labelColor=0d0d0d" />
 &nbsp;
 <img src="https://img.shields.io/badge/11%20proyectos-7%20en%20GitHub-00d4ff?style=for-the-badge&labelColor=0d0d0d" />
 <!-- resumen:fin -->
@@ -103,8 +103,8 @@ const juan = {
 
 | Proyecto | Descripción | Stack | 90 días |
 |:--|:--|:--:|:--:|
-| **[Surtimotos](https://github.com/JuanBonilla1305/SurtImotos)** | Catálogo e inventario para una compraventa de motos: panel de trámites y vista 360 armada con fotogramas de video real. | `Next.js 16` `TypeScript` `Prisma 7` `PostgreSQL` `Supabase` | 26<br><sub>hace 7 días</sub> |
-| **[Lilianno Joyería](https://github.com/JuanBonilla1305/Lilianno_Joyeria)** | E-commerce de joyería con catálogo, carrito persistente, checkout y panel admin con reportes en Excel. | `React 19` `Express` `MongoDB` `JWT` | 0<br><sub>hace 11 días</sub> |
+| **[Surtimotos](https://github.com/JuanBonilla1305/SurtImotos)** | Catálogo e inventario para una compraventa de motos: panel de trámites y vista 360 armada con fotogramas de video real. | `Next.js 16` `TypeScript` `Prisma 7` `PostgreSQL` `Supabase` | 26<br><sub>hace 8 días</sub> |
+| **[Lilianno Joyería](https://github.com/JuanBonilla1305/Lilianno_Joyeria)** | E-commerce de joyería con catálogo, carrito persistente, checkout y panel admin con reportes en Excel. | `React 19` `Express` `MongoDB` `JWT` | 0<br><sub>hace 12 días</sub> |
 | **Wallnut / Ardys**<br><sub>sin repo público</sub> | Banco virtual estudiantil: cuentas, transacciones seguras y comunicación en tiempo real. | `Node.js` `WebSockets` `MongoDB` | — |
 | **msn-matrix**<br><sub>en el portátil</sub> | Matriz MUST / SHOULD / NICE: clasifica una lista de funcionalidades con confianza y justificación. | `Next.js 16` `SDK de Anthropic` | — |
 
@@ -112,14 +112,14 @@ const juan = {
 
 | Proyecto | Descripción | Stack | 90 días |
 |:--|:--|:--:|:--:|
-| **[DevUP](https://github.com/BBMC-S-S-A/DevUP)** | Centro de mando de un equipo: multi-tenencia con aislamiento por fila, canales, llamadas con vídeo y pantalla, tablero de tareas en tiempo real. | `Fastify` `PostgreSQL 17` `WebRTC` `S3` `Docker` | 31<br><sub>hace 5 días</sub> |
-| **[domicilios-app](https://github.com/felipebaez07/domicilios-app)** | Domicilios en microservicios (auth, pedidos, tracking, notificaciones); metí mano en el despliegue remoto y la migración a MySQL. | `Node.js` `Microservicios` `MySQL` | 5<br><sub>hace 8 días · ★ 2</sub> |
+| **[DevUP](https://github.com/BBMC-S-S-A/DevUP)** | Centro de mando de un equipo: multi-tenencia con aislamiento por fila, canales, llamadas con vídeo y pantalla, tablero de tareas en tiempo real. | `Fastify` `PostgreSQL 17` `WebRTC` `S3` `Docker` | 31<br><sub>hace 6 días</sub> |
+| **[domicilios-app](https://github.com/felipebaez07/domicilios-app)** | Domicilios en microservicios (auth, pedidos, tracking, notificaciones); metí mano en el despliegue remoto y la migración a MySQL. | `Node.js` `Microservicios` `MySQL` | 4<br><sub>hace 9 días · ★ 2</sub> |
 
 ### 🎓 Universidad
 
 | Proyecto | Descripción | Stack | 90 días |
 |:--|:--|:--:|:--:|
-| **[Animales-Arquitectura](https://github.com/JuanBonilla1305/Animales-Arquitectura)** | Arquitectura hexagonal llevada a la práctica sobre un dominio simple. | `Node.js` `Hexagonal` | 0<br><sub>hace 4 meses</sub> |
+| **[Animales-Arquitectura](https://github.com/JuanBonilla1305/Animales-Arquitectura)** | Arquitectura hexagonal llevada a la práctica sobre un dominio simple. | `Node.js` `Hexagonal` | 0<br><sub>hace 5 meses</sub> |
 | **[Raffle System](https://github.com/JuanBonilla1305/raffle-system)** | Gestión automatizada de sorteos con lógica de asignación aleatoria. | `JavaScript` `SQL` | 0<br><sub>hace 6 meses</sub> |
 | **Lógica de automatización**<br><sub>9 proyectos locales</sub> | DLLs que resuelven la lógica de un robot con cuatro sensores, bandas, un lavadero y el llenado de botellas, para engancharlas a un simulador. | `C++` `Visual Studio` | — |
 | **Fundamentos móviles**<br><sub>2 proyectos locales</sub> | Base de Kotlin para móvil: control de flujo, funciones reutilizables y modelado con objetos. | `Kotlin` `IntelliJ` | — |
