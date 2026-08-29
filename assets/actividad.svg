@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="780" height="184" viewBox="0 0 780 184" role="img" aria-labelledby="titulo desc" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
 <title id="titulo">Commits por proyecto</title>
-<desc id="desc">DevUP: 43; Surtimotos: 26; domicilios-app: 4</desc>
+<desc id="desc">DevUP: 76; Surtimotos: 26; domicilios-app: 4</desc>
 <rect width="780" height="184" fill="#0d0d0d"/>
 <text x="18" y="26" font-size="15" font-weight="700" fill="#00ff96">Commits por proyecto</text>
 <text x="18" y="46" font-size="12" fill="#aaaaaa">Últimos 90 días · solo repos públicos visibles para la API</text>
 <line x1="228" y1="66" x2="228" y2="152" stroke="#333333" stroke-width="1"/>
-<text x="216" y="79" text-anchor="end" dominant-baseline="central" font-size="12.5" fill="#aaaaaa">DevUP</text><path d="M228 69 H704 A4 4 0 0 1 708 73 V85 A4 4 0 0 1 704 89 H228 Z" fill="#00a566"/><text x="717" y="79" dominant-baseline="central" font-size="12.5" font-variant-numeric="tabular-nums" fill="#aaaaaa">43</text>
-<text x="216" y="109" text-anchor="end" dominant-baseline="central" font-size="12.5" fill="#aaaaaa">Surtimotos</text><path d="M228 99 H514 A4 4 0 0 1 518 103 V115 A4 4 0 0 1 514 119 H228 Z" fill="#00a566"/><text x="527" y="109" dominant-baseline="central" font-size="12.5" font-variant-numeric="tabular-nums" fill="#aaaaaa">26</text>
-<text x="216" y="139" text-anchor="end" dominant-baseline="central" font-size="12.5" fill="#aaaaaa">domicilios-app</text><path d="M228 129 H269 A4 4 0 0 1 273 133 V145 A4 4 0 0 1 269 149 H228 Z" fill="#00a566"/><text x="282" y="139" dominant-baseline="central" font-size="12.5" font-variant-numeric="tabular-nums" fill="#aaaaaa">4</text>
-<text x="18" y="172" font-size="11" fill="#aaaaaa">Generado automáticamente el 28 de agosto de 2026</text>
+<text x="216" y="79" text-anchor="end" dominant-baseline="central" font-size="12.5" fill="#aaaaaa">DevUP</text><path d="M228 69 H704 A4 4 0 0 1 708 73 V85 A4 4 0 0 1 704 89 H228 Z" fill="#00a566"/><text x="717" y="79" dominant-baseline="central" font-size="12.5" font-variant-numeric="tabular-nums" fill="#aaaaaa">76</text>
+<text x="216" y="109" text-anchor="end" dominant-baseline="central" font-size="12.5" fill="#aaaaaa">Surtimotos</text><path d="M228 99 H388 A4 4 0 0 1 392 103 V115 A4 4 0 0 1 388 119 H228 Z" fill="#00a566"/><text x="401" y="109" dominant-baseline="central" font-size="12.5" font-variant-numeric="tabular-nums" fill="#aaaaaa">26</text>
+<text x="216" y="139" text-anchor="end" dominant-baseline="central" font-size="12.5" fill="#aaaaaa">domicilios-app</text><path d="M228 129 H249 A4 4 0 0 1 253 133 V145 A4 4 0 0 1 249 149 H228 Z" fill="#00a566"/><text x="262" y="139" dominant-baseline="central" font-size="12.5" font-variant-numeric="tabular-nums" fill="#aaaaaa">4</text>
+<text x="18" y="172" font-size="11" fill="#aaaaaa">Generado automáticamente el 29 de agosto de 2026</text>
 </svg>
