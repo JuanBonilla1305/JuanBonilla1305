@@ -229,14 +229,14 @@ function badge(etiqueta, mensaje, color) {
   const partes = [etiqueta, mensaje, color].map((t) => encodeURIComponent(t));
   return (
     `<img src="https://img.shields.io/badge/${partes.join("-")}` +
-    `?style=for-the-badge&labelColor=0d0d0d" />`
+    `?style=for-the-badge&labelColor=0b0b0b" />`
   );
 }
 
 const bloqueResumen = [
-  badge(`${totalCommits} commits`, `últimos ${DIAS} días`, "00ff96"),
+  badge(`${totalCommits} commits`, `últimos ${DIAS} días`, "e10600"),
   "&nbsp;",
-  badge(`${proyectos.length} proyectos`, `${conRepo} en GitHub`, "00d4ff"),
+  badge(`${proyectos.length} proyectos`, `${conRepo} en GitHub`, "ff2a1f"),
 ].join("\n");
 
 let readme = await readFile(join(RAIZ, "README.md"), "utf8");

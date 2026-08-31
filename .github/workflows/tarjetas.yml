@@ -1,0 +1,54 @@
+name: Generar tarjetas del perfil
+
+on:
+  schedule:
+    - cron: "0 7 * * *" # diario, después de actualizar-perfil (06:17 UTC)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/tarjetas.mjs
+      - .github/workflows/tarjetas.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tarjetas-perfil
+  cancel-in-progress: true
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: "22"
+
+      - name: Renderizar tarjetas
+        env:
+          # Un PAT con read:user también cuenta las contribuciones privadas.
+          # Si no existe, cae al token automático, que solo ve actividad pública.
+          GITHUB_TOKEN: ${{ secrets.PERFIL_TOKEN || secrets.GITHUB_TOKEN }}
+          USUARIO: ${{ github.repository_owner }}
+        run: node scripts/tarjetas.mjs
+
+      - name: Publicar si algo cambió
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Se agrega primero y se compara contra el índice: un `git diff` sin
+          # `--cached` ignora archivos sin trackear, así que en la primera
+          # corrida (cuando las 4 tarjetas son nuevas) reportaría "sin cambios"
+          # y las tarjetas recién generadas se perderían sin commitear.
+          git add -A assets
+          if git diff --cached --quiet -- assets; then
+            echo "Tarjetas sin cambios."
+            exit 0
+          fi
+          git commit -m "Refrescar las tarjetas del perfil"
+          git push

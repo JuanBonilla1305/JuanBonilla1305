@@ -4,19 +4,21 @@
 // para todas las barras, con el valor etiquetado en la punta. Sin leyenda —
 // con una serie el título ya dice qué se está midiendo.
 //
-// La paleta es la del resto del README: fondo #0d0d0d y neón #00ff96, igual que
-// las tarjetas de stats, que van en oscuro sea cual sea el tema de quien mira.
-// Por eso este gráfico también es siempre oscuro: si cambiara con el tema sería
-// lo único claro rodeado de bloques negros.
+// La paleta es la del resto del README: fondo #0b0b0b y rojo Hytrex #e10600,
+// igual que assets/calendario.svg, assets/resumen.svg, assets/racha.svg y
+// assets/lenguajes.svg (scripts/tarjetas.mjs). Por eso este gráfico también es
+// siempre oscuro: si cambiara con el tema sería lo único claro rodeado de
+// bloques negros.
 //
-// El relleno NO es el neón puro: #00ff96 tiene luminosidad OKLCH 0.879 y como
-// bloque grande sobre negro glarea (queda fuera de la banda 0.48–0.67 para
-// superficies oscuras). #00a566 pasa la banda y el mínimo de 3:1, y deja el
-// neón para el título, que es como lo usas en las demás tarjetas.
+// El relleno de la barra usa el rojo base (#e10600, luminosidad OKLCH 0.5725)
+// y no el rojo brillante: contra #0b0b0b da un contraste de 3.99:1, que ya
+// pasa el mínimo de 3:1 para bloques grandes. El título, en cambio, es texto
+// chico en negrita (15px) y ese mínimo sube a 4.5:1 — ahí #e10600 se queda
+// corto, así que el título usa #ff2a1f (luminosidad 0.642, contraste 5.28:1).
 export const PALETA = {
-  superficie: "#0d0d0d",
-  serie: "#00a566",
-  titulo: "#00ff96",
+  superficie: "#0b0b0b",
+  serie: "#e10600",
+  titulo: "#ff2a1f",
   tinta: "#aaaaaa",
   base: "#333333",
 };

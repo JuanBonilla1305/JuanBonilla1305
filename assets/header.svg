@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 176" width="900" height="176" role="img" aria-label="Arquitectura limpia, backends escalables, juegos afilados — una petición viajando de cliente a API a servicio a datos">
+  <title>Arquitectura limpia · Backends escalables · Juegos afilados</title>
+
+  <defs>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#e10600" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <clipPath id="panel"><rect x="1" y="1" width="898" height="174" rx="12"/></clipPath>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .tagline { font-size: 18px; letter-spacing: 1.4px; fill: #c8c8c8; }
+    .node-label { font-size: 15px; letter-spacing: 1.4px; fill: #9a9a9a; }
+  </style>
+
+  <rect x="1" y="1" width="898" height="174" rx="12" fill="#0b0b0b" stroke="#232323" stroke-width="1"/>
+
+  <g clip-path="url(#panel)">
+    <rect x="-500" y="0" width="500" height="176" fill="url(#sweep)">
+      <animate attributeName="x" values="-500;900" dur="9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <text class="mono tagline" x="450" y="52" text-anchor="middle">ARQUITECTURA LIMPIA &#183; BACKENDS ESCALABLES &#183; JUEGOS AFILADOS</text>
+
+  <rect x="250" y="85" width="400" height="2" fill="url(#rule)"/>
+
+  <!-- Pulso viajero: cliente → api → servicio → datos, un ciclo cada 4.5s -->
+  <g>
+    <line x1="110" y1="128" x2="790" y2="128" stroke="#262626" stroke-width="2" stroke-linecap="round"/>
+
+    <line x1="110" y1="128" x2="790" y2="128"
+          stroke="#e10600" stroke-width="2.5" stroke-linecap="round"
+          stroke-dasharray="64 680" stroke-opacity="1">
+      <animate attributeName="stroke-dashoffset" from="64" to="-680" dur="4.5s" repeatCount="indefinite"/>
+    </line>
+
+    <g>
+      <circle cx="110" cy="128" r="6.5" fill="#0b0b0b" stroke="#3a3a3a" stroke-width="2">
+        <animate attributeName="fill"   values="#0b0b0b;#0b0b0b;#e10600;#0b0b0b;#0b0b0b" keyTimes="0;0.02;0.06;0.15;1" dur="4.5s" repeatCount="indefinite"/>
+        <animate attributeName="stroke" values="#4a4a4a;#4a4a4a;#e10600;#4a4a4a;#4a4a4a" keyTimes="0;0.02;0.06;0.15;1" dur="4.5s" repeatCount="indefinite"/>
+        <animate attributeName="r"      values="6.5;6.5;9;6.5;6.5" keyTimes="0;0.02;0.06;0.15;1" dur="4.5s" repeatCount="indefinite"/>
+      </circle>
+      <text class="mono node-label" x="110" y="159" text-anchor="middle">CLIENTE
+        <animate attributeName="fill" values="#6e6e6e;#6e6e6e;#ffffff;#6e6e6e;#6e6e6e" keyTimes="0;0.02;0.06;0.18;1" dur="4.5s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <g>
+      <circle cx="336" cy="128" r="6.5" fill="#0b0b0b" stroke="#3a3a3a" stroke-width="2">
+        <animate attributeName="fill"   values="#0b0b0b;#0b0b0b;#e10600;#0b0b0b;#0b0b0b" keyTimes="0;0.29;0.33;0.42;1" dur="4.5s" repeatCount="indefinite"/>
+        <animate attributeName="stroke" values="#4a4a4a;#4a4a4a;#e10600;#4a4a4a;#4a4a4a" keyTimes="0;0.29;0.33;0.42;1" dur="4.5s" repeatCount="indefinite"/>
+        <animate attributeName="r"      values="6.5;6.5;9;6.5;6.5" keyTimes="0;0.29;0.33;0.42;1" dur="4.5s" repeatCount="indefinite"/>
+      </circle>
+      <text class="mono node-label" x="336" y="159" text-anchor="middle">API
+        <animate attributeName="fill" values="#6e6e6e;#6e6e6e;#ffffff;#6e6e6e;#6e6e6e" keyTimes="0;0.29;0.33;0.45;1" dur="4.5s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <g>
+      <circle cx="562" cy="128" r="6.5" fill="#0b0b0b" stroke="#3a3a3a" stroke-width="2">
+        <animate attributeName="fill"   values="#0b0b0b;#0b0b0b;#e10600;#0b0b0b;#0b0b0b" keyTimes="0;0.58;0.62;0.71;1" dur="4.5s" repeatCount="indefinite"/>
+        <animate attributeName="stroke" values="#4a4a4a;#4a4a4a;#e10600;#4a4a4a;#4a4a4a" keyTimes="0;0.58;0.62;0.71;1" dur="4.5s" repeatCount="indefinite"/>
+        <animate attributeName="r"      values="6.5;6.5;9;6.5;6.5" keyTimes="0;0.58;0.62;0.71;1" dur="4.5s" repeatCount="indefinite"/>
+      </circle>
+      <text class="mono node-label" x="562" y="159" text-anchor="middle">SERVICIO
+        <animate attributeName="fill" values="#6e6e6e;#6e6e6e;#ffffff;#6e6e6e;#6e6e6e" keyTimes="0;0.58;0.62;0.74;1" dur="4.5s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <g>
+      <circle cx="790" cy="128" r="6.5" fill="#0b0b0b" stroke="#3a3a3a" stroke-width="2">
+        <animate attributeName="fill"   values="#0b0b0b;#0b0b0b;#e10600;#0b0b0b;#0b0b0b" keyTimes="0;0.87;0.91;0.99;1" dur="4.5s" repeatCount="indefinite"/>
+        <animate attributeName="stroke" values="#4a4a4a;#4a4a4a;#e10600;#4a4a4a;#4a4a4a" keyTimes="0;0.87;0.91;0.99;1" dur="4.5s" repeatCount="indefinite"/>
+        <animate attributeName="r"      values="6.5;6.5;9;6.5;6.5" keyTimes="0;0.87;0.91;0.99;1" dur="4.5s" repeatCount="indefinite"/>
+      </circle>
+      <text class="mono node-label" x="790" y="159" text-anchor="middle">DATOS
+        <animate attributeName="fill" values="#6e6e6e;#6e6e6e;#ffffff;#6e6e6e;#6e6e6e" keyTimes="0;0.87;0.91;0.99;1" dur="4.5s" repeatCount="indefinite"/>
+      </text>
+    </g>
+  </g>
+</svg>
