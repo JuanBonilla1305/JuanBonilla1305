@@ -11,23 +11,23 @@
 
   <text class="f head" x="24" y="32">DISTRIBUCIÓN POR LENGUAJE<tspan fill="#4a4a4a">  /  LANGUAGE DISTRIBUTION</tspan></text>
   <line x1="24" y1="46" x2="796" y2="46" stroke="#232323"/>
-  <g opacity="0"><rect x="24" y="66" width="390.33384660766126" height="16" fill="#e10600"><title>HTML 50.6%</title></rect><rect x="414.33384660766126" y="66" width="169.5010719482642" height="16" fill="#ffffff"><title>TypeScript 22.0%</title></rect><rect x="583.8349185559255" y="66" width="159.07586909669834" height="16" fill="#b3b3b3"><title>JavaScript 20.6%</title></rect><rect x="742.9107876526239" y="66" width="44.38338346108736" height="16" fill="#8a8a8a"><title>CSS 5.7%</title></rect><rect x="787.2941711137112" y="66" width="8.705828886288801" height="16" fill="#5f5f5f"><title>Vue 1.1%</title></rect><animate attributeName="opacity" from="0" to="1" dur="0.6s" fill="freeze"/></g>
+  <g opacity="0"><rect x="24" y="66" width="371.3732001068891" height="16" fill="#e10600"><title>HTML 48.1%</title></rect><rect x="395.3732001068891" y="66" width="188.84894124724553" height="16" fill="#ffffff"><title>JavaScript 24.5%</title></rect><rect x="584.2221413541347" y="66" width="161.26747925666413" height="16" fill="#b3b3b3"><title>TypeScript 20.9%</title></rect><rect x="745.4896206107989" y="66" width="42.2274401535121" height="16" fill="#8a8a8a"><title>CSS 5.5%</title></rect><rect x="787.717060764311" y="66" width="8.282939235689147" height="16" fill="#5f5f5f"><title>Vue 1.1%</title></rect><animate attributeName="opacity" from="0" to="1" dur="0.6s" fill="freeze"/></g>
   <g>
       <rect x="24" y="101" width="11" height="11" rx="2" fill="#e10600"/>
       <text class="f" x="42" y="112" font-size="14" fill="#ffffff">HTML</text>
-      <text class="f" x="84" y="112" font-size="13" fill="#4a4a4a">50.6%</text>
+      <text class="f" x="84" y="112" font-size="13" fill="#4a4a4a">48.1%</text>
     </g><g>
       <rect x="281.3333333333333" y="101" width="11" height="11" rx="2" fill="#ffffff"/>
-      <text class="f" x="299.3333333333333" y="112" font-size="14" fill="#ffffff">TypeScript</text>
-      <text class="f" x="392.3333333333333" y="112" font-size="13" fill="#4a4a4a">22.0%</text>
+      <text class="f" x="299.3333333333333" y="112" font-size="14" fill="#ffffff">JavaScript</text>
+      <text class="f" x="392.3333333333333" y="112" font-size="13" fill="#4a4a4a">24.5%</text>
     </g><g>
       <rect x="538.6666666666666" y="101" width="11" height="11" rx="2" fill="#b3b3b3"/>
-      <text class="f" x="556.6666666666666" y="112" font-size="14" fill="#ffffff">JavaScript</text>
-      <text class="f" x="649.6666666666666" y="112" font-size="13" fill="#4a4a4a">20.6%</text>
+      <text class="f" x="556.6666666666666" y="112" font-size="14" fill="#ffffff">TypeScript</text>
+      <text class="f" x="649.6666666666666" y="112" font-size="13" fill="#4a4a4a">20.9%</text>
     </g><g>
       <rect x="24" y="127" width="11" height="11" rx="2" fill="#8a8a8a"/>
       <text class="f" x="42" y="138" font-size="14" fill="#ffffff">CSS</text>
-      <text class="f" x="75.5" y="138" font-size="13" fill="#4a4a4a">5.7%</text>
+      <text class="f" x="75.5" y="138" font-size="13" fill="#4a4a4a">5.5%</text>
     </g><g>
       <rect x="281.3333333333333" y="127" width="11" height="11" rx="2" fill="#5f5f5f"/>
       <text class="f" x="299.3333333333333" y="138" font-size="14" fill="#ffffff">Vue</text>
