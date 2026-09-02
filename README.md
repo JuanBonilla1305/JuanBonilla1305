@@ -39,7 +39,7 @@
 
 <!-- CONTADORES VIVOS: los reescribe el workflow, no los toques a mano -->
 <!-- resumen:inicio -->
-<img src="https://img.shields.io/badge/126%20commits-%C3%BAltimos%2090%20d%C3%ADas-e10600?style=for-the-badge&labelColor=0b0b0b" />
+<img src="https://img.shields.io/badge/139%20commits-%C3%BAltimos%2090%20d%C3%ADas-e10600?style=for-the-badge&labelColor=0b0b0b" />
 &nbsp;
 <img src="https://img.shields.io/badge/11%20proyectos-7%20en%20GitHub-ff2a1f?style=for-the-badge&labelColor=0b0b0b" />
 <!-- resumen:fin -->
@@ -129,8 +129,8 @@ const juan = {
 
 | Proyecto | Descripción | Stack | 90 días |
 |:--|:--|:--:|:--:|
-| **[Surtimotos](https://github.com/JuanBonilla1305/SurtImotos)** | Catálogo e inventario para una compraventa de motos: panel de trámites y vista 360 armada con fotogramas de video real. | `Next.js 16` `TypeScript` `Prisma 7` `PostgreSQL` `Supabase` | 26<br><sub>hace 17 días</sub> |
-| **[Lilianno Joyería](https://github.com/JuanBonilla1305/Lilianno_Joyeria)** | E-commerce de joyería con catálogo, carrito persistente, checkout y panel admin con reportes en Excel. | `React 19` `Express` `MongoDB` `JWT` | 0<br><sub>hace 21 días</sub> |
+| **[Surtimotos](https://github.com/JuanBonilla1305/SurtImotos)** | Catálogo e inventario para una compraventa de motos: panel de trámites y vista 360 armada con fotogramas de video real. | `Next.js 16` `TypeScript` `Prisma 7` `PostgreSQL` `Supabase` | 26<br><sub>hace 18 días</sub> |
+| **[Lilianno Joyería](https://github.com/JuanBonilla1305/Lilianno_Joyeria)** | E-commerce de joyería con catálogo, carrito persistente, checkout y panel admin con reportes en Excel. | `React 19` `Express` `MongoDB` `JWT` | 0<br><sub>hace 22 días</sub> |
 | **Wallnut / Ardys**<br><sub>sin repo público</sub> | Banco virtual estudiantil: cuentas, transacciones seguras y comunicación en tiempo real. | `Node.js` `WebSockets` `MongoDB` | — |
 | **msn-matrix**<br><sub>en el portátil</sub> | Matriz MUST / SHOULD / NICE: clasifica una lista de funcionalidades con confianza y justificación. | `Next.js 16` `SDK de Anthropic` | — |
 
@@ -138,8 +138,8 @@ const juan = {
 
 | Proyecto | Descripción | Stack | 90 días |
 |:--|:--|:--:|:--:|
-| **[DevUP](https://github.com/BBMC-S-S-A/DevUP)** | Centro de mando de un equipo: multi-tenencia con aislamiento por fila, canales, llamadas con vídeo y pantalla, tablero de tareas en tiempo real. | `Fastify` `PostgreSQL 17` `WebRTC` `S3` `Docker` | 83<br><sub>hoy</sub> |
-| **[domicilios-app](https://github.com/felipebaez07/domicilios-app)** | Domicilios en microservicios (auth, pedidos, tracking, notificaciones); metí mano en el despliegue remoto y la migración a MySQL. | `Node.js` `Microservicios` `MySQL` | 17<br><sub>ayer · ★ 2</sub> |
+| **[DevUP](https://github.com/BBMC-S-S-A/DevUP)** | Centro de mando de un equipo: multi-tenencia con aislamiento por fila, canales, llamadas con vídeo y pantalla, tablero de tareas en tiempo real. | `Fastify` `PostgreSQL 17` `WebRTC` `S3` `Docker` | 96<br><sub>hoy</sub> |
+| **[domicilios-app](https://github.com/felipebaez07/domicilios-app)** | Domicilios en microservicios (auth, pedidos, tracking, notificaciones); metí mano en el despliegue remoto y la migración a MySQL. | `Node.js` `Microservicios` `MySQL` | 17<br><sub>anteayer · ★ 2</sub> |
 
 ### 🎓 Universidad
 
