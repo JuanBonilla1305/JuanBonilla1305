@@ -138,14 +138,14 @@ const juan = {
 
 | Proyecto | Descripción | Stack | 90 días |
 |:--|:--|:--:|:--:|
-| **[DevUP](https://github.com/BBMC-S-S-A/DevUP)** | Centro de mando de un equipo: multi-tenencia con aislamiento por fila, canales, llamadas con vídeo y pantalla, tablero de tareas en tiempo real. | `Fastify` `PostgreSQL 17` `WebRTC` `S3` `Docker` | 298<br><sub>hoy</sub> |
-| **[domicilios-app](https://github.com/felipebaez07/domicilios-app)** | Domicilios en microservicios (auth, pedidos, tracking, notificaciones); metí mano en el despliegue remoto y la migración a MySQL. | `Node.js` `Microservicios` `MySQL` | 17<br><sub>hace 21 días · ★ 2</sub> |
+| **[DevUP](https://github.com/BBMC-S-S-A/DevUP)** | Centro de mando de un equipo: multi-tenencia con aislamiento por fila, canales, llamadas con vídeo y pantalla, tablero de tareas en tiempo real. | `Fastify` `PostgreSQL 17` `WebRTC` `S3` `Docker` | 298<br><sub>ayer</sub> |
+| **[domicilios-app](https://github.com/felipebaez07/domicilios-app)** | Domicilios en microservicios (auth, pedidos, tracking, notificaciones); metí mano en el despliegue remoto y la migración a MySQL. | `Node.js` `Microservicios` `MySQL` | 17<br><sub>hace 22 días · ★ 2</sub> |
 
 ### 🎓 Universidad
 
 | Proyecto | Descripción | Stack | 90 días |
 |:--|:--|:--:|:--:|
-| **[Animales-Arquitectura](https://github.com/JuanBonilla1305/Animales-Arquitectura)** | Arquitectura hexagonal llevada a la práctica sobre un dominio simple. | `Node.js` `Hexagonal` | 0<br><sub>hace 5 meses</sub> |
+| **[Animales-Arquitectura](https://github.com/JuanBonilla1305/Animales-Arquitectura)** | Arquitectura hexagonal llevada a la práctica sobre un dominio simple. | `Node.js` `Hexagonal` | 0<br><sub>hace 6 meses</sub> |
 | **[Raffle System](https://github.com/JuanBonilla1305/raffle-system)** | Gestión automatizada de sorteos con lógica de asignación aleatoria. | `JavaScript` `SQL` | 0<br><sub>hace 7 meses</sub> |
 | **Lógica de automatización**<br><sub>9 proyectos locales</sub> | DLLs que resuelven la lógica de un robot con cuatro sensores, bandas, un lavadero y el llenado de botellas, para engancharlas a un simulador. | `C++` `Visual Studio` | — |
 | **Fundamentos móviles**<br><sub>2 proyectos locales</sub> | Base de Kotlin para móvil: control de flujo, funciones reutilizables y modelado con objetos. | `Kotlin` `IntelliJ` | — |
