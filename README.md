@@ -123,7 +123,7 @@ const juan = {
 
 | Proyecto | Descripción | Stack | 90 días |
 |:--|:--|:--:|:--:|
-| **[Operación Pijao](https://github.com/JuanBonilla1305/web-operacion-pijao)**<br><sub>[GDD](https://github.com/JuanBonilla1305/gdd-operacion-pijao)</sub> | Plataformas 2D side-scrolling ambientado en Ibagué: combate, jefes y sprites propios. | `Unity` `C#` `Aseprite` | 0<br><sub>hace 5 meses</sub> |
+| **[Operación Pijao](https://github.com/JuanBonilla1305/web-operacion-pijao)**<br><sub>[GDD](https://github.com/JuanBonilla1305/gdd-operacion-pijao)</sub> | Plataformas 2D side-scrolling ambientado en Ibagué: combate, jefes y sprites propios. | `Unity` `C#` `Aseprite` | 0<br><sub>hace 6 meses</sub> |
 
 ### 🏗️ Productos y clientes
 
@@ -138,7 +138,7 @@ const juan = {
 
 | Proyecto | Descripción | Stack | 90 días |
 |:--|:--|:--:|:--:|
-| **[DevUP](https://github.com/BBMC-S-S-A/DevUP)** | Centro de mando de un equipo: multi-tenencia con aislamiento por fila, canales, llamadas con vídeo y pantalla, tablero de tareas en tiempo real. | `Fastify` `PostgreSQL 17` `WebRTC` `S3` `Docker` | 314<br><sub>hace 10 días</sub> |
+| **[DevUP](https://github.com/BBMC-S-S-A/DevUP)** | Centro de mando de un equipo: multi-tenencia con aislamiento por fila, canales, llamadas con vídeo y pantalla, tablero de tareas en tiempo real. | `Fastify` `PostgreSQL 17` `WebRTC` `S3` `Docker` | 314<br><sub>hace 11 días</sub> |
 | **[domicilios-app](https://github.com/felipebaez07/domicilios-app)** | Domicilios en microservicios (auth, pedidos, tracking, notificaciones); metí mano en el despliegue remoto y la migración a MySQL. | `Node.js` `Microservicios` `MySQL` | 17<br><sub>el mes pasado · ★ 2</sub> |
 
 ### 🎓 Universidad
