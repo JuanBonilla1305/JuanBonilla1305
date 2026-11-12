@@ -123,7 +123,7 @@ const juan = {
 
 | Proyecto | Descripción | Stack | 90 días |
 |:--|:--|:--:|:--:|
-| **[Operación Pijao](https://github.com/JuanBonilla1305/web-operacion-pijao)**<br><sub>[GDD](https://github.com/JuanBonilla1305/gdd-operacion-pijao)</sub> | Plataformas 2D side-scrolling ambientado en Ibagué: combate, jefes y sprites propios. | `Unity` `C#` `Aseprite` | 0<br><sub>hace 6 meses</sub> |
+| **[Operación Pijao](https://github.com/JuanBonilla1305/web-operacion-pijao)**<br><sub>[GDD](https://github.com/JuanBonilla1305/gdd-operacion-pijao)</sub> | Plataformas 2D side-scrolling ambientado en Ibagué: combate, jefes y sprites propios. | `Unity` `C#` `Aseprite` | 0<br><sub>hace 7 meses</sub> |
 
 ### 🏗️ Productos y clientes
 
